@@ -1,7 +1,7 @@
-<h2 align="center">Hi 👋Olá bem vindo ao meu perfil</h2>
+<h2 align="center"> 👋Olá bem vindo ao meu perfil</h2>
 
 ###
-
+<h1>Sou programador que está começando na área de TI </h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
