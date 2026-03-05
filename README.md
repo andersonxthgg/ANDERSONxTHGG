@@ -1,4 +1,4 @@
-<h2 align="left">👋zzzzz..y</h2>
+<h2 align="left">👋zzzzz..</h2>
 
 ###
 
