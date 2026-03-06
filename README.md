@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Sou programador que está começando na área de TI</h4>
+<h4 align="left">Sou programador front-end que está começando na área</h4>
 
 ###
 
